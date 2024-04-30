@@ -105,5 +105,4 @@ int	main(int c, char **v)
 		ft_checker(&a, &b, line);
 	free_stack(&a);
 	free_stack(&b);
-	free(line);
 }
